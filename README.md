@@ -1,4 +1,6 @@
-# Modificacion PE101.
+# Modificacion PE101
+[![Coverage Status](https://coveralls.io/repos/github/SebastianPortoULL/modificacion-sebastian-porto-06-03-2024/badge.svg?branch=main)](https://coveralls.io/github/SebastianPortoULL/modificacion-sebastian-porto-06-03-2024?branch=main)
+[![Tests](https://github.com/SebastianPortoULL/modificacion-sebastian-porto-06-03-2024/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/SebastianPortoULL/modificacion-sebastian-porto-06-03-2024/actions/workflows/node.js.yml)
 
 Desarrolle los siguientes ejercicios en su proyecto TypeScript asociado a la práctica y empuje los cambios al repositorio GitHub correspondiente, una vez haya finalizado:
 
