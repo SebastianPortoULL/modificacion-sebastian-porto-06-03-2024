@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 19.x
       - name: Installing dependencies
-        run: npm i
+        run: npm --force i
       - name: Generating coverage report
         run: npm run coverage
       - name: SonarCloud Scan
