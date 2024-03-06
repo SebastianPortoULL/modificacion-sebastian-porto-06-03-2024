@@ -135,5 +135,4 @@ describe('Práctica 6 Tests', () => {
 		expect(adapter3.divide(complex2)).to.be.deep.equal(new Complex(2/5, 4/5));
 		expect(adapter4.divide(complex2)).to.be.deep.equal(new Complex(3/5, 6/5));
 	});
-	
 });
